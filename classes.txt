@@ -1,0 +1,12 @@
+Anticarsia_gemmatalis
+Coccinellidae
+Diabrotica_speciosa
+Edessa_meditabunda
+Euschistus_heros_adulto
+Euschistus_heros_ninfa
+Gastropoda
+Lagria_villosa
+Nezara_viridula_adulto
+Nezara_viridula_ninfa
+Rhammatocerus_schistocercoides
+Spodoptera_albula
